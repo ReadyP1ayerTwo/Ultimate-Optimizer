@@ -1,0 +1,5 @@
+you MUST extract the "!Auto-Maintainer" folder inside of the zip folder to your desktop.
+
+Run using either the Fast cleaner or the Deep cleaner shortcut, Otherwise the cleaner may not clean all of your files.
+
+The deep cleaner will take longer, But it will find any potentially corrupted files in your system.
