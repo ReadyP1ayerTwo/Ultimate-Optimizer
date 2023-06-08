@@ -4,6 +4,7 @@ And if you have minimal free space on your C drive you should see a decent impro
 
 You can help improve this script by creating an issue and suggesting programs that take up a lot of cache space, Or by fixing any errors you see.
 Just remember the goal of this is to improve performance, So you are more than welcome to add on to the performance enhancing aspects of the script
+
 You can quickly check what takes up a lot of space on your computer by using WizTree and then we can add it to the batch script to be removed
 
 There are a few errors, as my knowledge on scripting and coding is very minimal, Hence why i built this using ChatGPT. 
